@@ -16,6 +16,6 @@
     📻  <a href="http://radio.garden/">Radio Garden</a> - explore live radio by rotating the globe
   </li>
   <li>
-    💸  <a href="https://github.com/MKorostoff/1-pixel-wealth">MKorostoff/1-pixel-wealth</a> - wealth inequality in the USA
+    🤖 <a href="https://noaifridays.com/">No AI Fridays</a>
   </li>
 </ul>
