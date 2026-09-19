@@ -10,7 +10,7 @@
 
 <ul>
   <li>
-    🚗  <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> - an open source driver assistance system
+    🚗  <a href="https://github.com/commaai/openpilot">commaai/openpilot</a> - an open source driver assistance system - <a href="https://refer.comma.ai/5449KGX">buy a comma four</a>
   </li>
   <li>
     📻  <a href="http://radio.garden/">Radio Garden</a> - explore live radio by rotating the globe
