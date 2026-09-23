@@ -1,6 +1,6 @@
 ## Hello, I'm Cameron 👋
 
-[![wakatime](https://wakatime.com/badge/user/28037aea-5bfb-4819-8766-ade682674479.svg)](https://wakatime.com/@28037aea-5bfb-4819-8766-ade682674479)
+[![current streak](https://leaderboard.ynga.tech/u/incognitojam/streak.svg)](https://leaderboard.ynga.tech/u/incognitojam) [![wakatime](https://wakatime.com/badge/user/28037aea-5bfb-4819-8766-ade682674479.svg)](https://wakatime.com/@28037aea-5bfb-4819-8766-ade682674479)
 
 [![incognitojam on the ynga git board](https://leaderboard.ynga.tech/u/incognitojam.svg)](https://leaderboard.ynga.tech/u/incognitojam)
 
